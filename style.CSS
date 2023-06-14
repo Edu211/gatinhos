@@ -1,5 +1,6 @@
 body{
     background-color: black;
+    cursor: url("./Alt.cur"), auto;
 }
 h1 {
     color: wheat;
@@ -23,3 +24,4 @@ a{
     color: rgb(216, 64, 191);
     font-size: 30px;
 }
+
