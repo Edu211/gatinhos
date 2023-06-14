@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(255, 255, 255);
+    color: rgb(157, 206, 238);
+    cursor: url("./Alt.cur"), auto;
+}
+tit{
+    font-size: 50px;
+    color: purple;
+    background-color: palevioletred;
+}
